@@ -10,6 +10,11 @@ const demos = [
   { title: 'Rotation on Scroll', path: '/scrollTrigger/demo-3' },
   { title: 'Ping Pong Balls Rotation+Movement', path: '/scrollTrigger/demo-4' },
   { title: 'Parallex Effects', path: '/scrollTrigger/demo-5' },
+  { title: 'Stagger example', path: '/scrollTrigger/demo-6' },
+  { title: 'Pinned Showcase', path: '/scrollTrigger/demo-7' },
+  { title: 'Horizontal Scroll Gallery', path: '/scrollTrigger/demo-8' },
+  { title: 'Step Walk Through', path: '/scrollTrigger/demo-9' },
+  { title: 'Split and Reveal Text with Image', path: '/scrollTrigger/demo-10' },
 ];
 
 function ScrollTriggerPage() {
