@@ -5,18 +5,10 @@ import React from 'react';
 import { FaArrowRight } from 'react-icons/fa';
 
 const demos = [
-  { title: 'Simple Rotation', path: '/scrollTrigger/demo-1' },
-  { title: 'Simple Moving', path: '/scrollTrigger/demo-2' },
-  { title: 'Rotation on Scroll', path: '/scrollTrigger/demo-3' },
-  { title: 'Ping Pong Balls Rotation+Movement', path: '/scrollTrigger/demo-4' },
-  { title: 'Parallex Effects', path: '/scrollTrigger/demo-5' },
-  { title: 'Stagger example', path: '/scrollTrigger/demo-6' },
-  { title: 'Pinned Showcase', path: '/scrollTrigger/demo-7' },
-  { title: 'Horizontal Scroll Gallery', path: '/scrollTrigger/demo-8' },
-  { title: 'Step Walk Through', path: '/scrollTrigger/demo-9' },
-  { title: 'Split and Reveal Text with Image', path: '/scrollTrigger/demo-10' },
-  { title: 'Paper Plane Animation', path: '/scrollTrigger/demo-11' },
-  { title: 'Balls Spin', path: '/scrollTrigger/demo-12' },
+  { title: 'Text Reveal', path: '/texts-animations/demo-1' },
+  { title: 'Text Fade Stagger', path: '/texts-animations/demo-2' },
+  { title: 'Text Reveal 2', path: '/texts-animations/demo-3' },
+  { title: 'Text Reveal 3', path: '/texts-animations/demo-4' },
 ];
 
 function ScrollTriggerPage() {

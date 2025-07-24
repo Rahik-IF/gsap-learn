@@ -1,0 +1,2 @@
+scrub=> make the animation movement smoother
+
